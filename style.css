@@ -1,0 +1,32 @@
+body{
+    background-image: url(Bgimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    color: rgba(20, 84, 57, 0.664);
+      
+    margin-top: 250px;
+    font-size: 2.5rem;
+    
+}
+.Cityname {
+    padding: 10px;
+    width: 200px;
+    font-size: 1rem;
+
+    border-radius: 1rem;
+}
+.submit {
+    padding: 10px 15px;
+    font-size: 1rem;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 1rem;
+}
